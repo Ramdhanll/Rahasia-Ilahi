@@ -54,7 +54,7 @@ function rupiah($angka){
                             <div class="widget-content-wrapper">
                                 <div class="widget-content-left">
                                     <div class="widget-heading">Transactions</div>
-                                    <div class="widget-subheading">People Interesting</div>
+                                    <div class="widget-subheading">People Interested</div>
                                 </div>
                                 <div class="widget-content-right">
                                     <div class="widget-numbers text-danger"><?= count($data['transactions']) ?></div>
